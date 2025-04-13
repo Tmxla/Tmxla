@@ -3,9 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmxla" alt="tmxla" /></a> </p>
 
+## Simple introduction
 - 📚 Learning now **Operating System, ComputerNetWork, C++, GitHub, Logic Circuit**
 
-- 💬 Simple introduction **컴퓨터공학을 공부하고 있고, GPU 아키텍처와 AI에 관심이 많습니다.**
+- 💬 **컴퓨터공학을 공부하고 있고, GPU 아키텍처와 AI에 관심이 많습니다.**
 
 - 📫 My Email **jgo030256@gmail.com**
 
