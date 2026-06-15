@@ -1,8 +1,6 @@
 <h1 align="center">Hi I'm Tmxla</h1>
 <h3 align="center">토성을 좋아하는 사람 🪐</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmxla" alt="tmxla" /></a> </p>
-
 ## Simple introduction
 - 📚 Learning now **Operating System, ComputerNetWork, C++, GitHub, Logic Circuit**
 
