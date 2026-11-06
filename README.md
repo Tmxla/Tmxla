@@ -47,7 +47,7 @@ GPU 추론에서 L2 캐시 데이터 유지와 DRAM 접근 감소를 다루는 �
 | [DeepTune](https://github.com/Tmxla/Deeptune-Music) | 텍스트·이미지·오디오 입력으로 OST와 곡 정보를 찾는 애플리케이션 | 팀 프로젝트. AudD 음악 인식 API를 활용한 오디오 기반 곡 식별 연동에 참여 |
 | [4-Guard Smart Helmet](https://github.com/Tmxla/IOT_Project) | 안전모 센서 데이터를 수집하고 작업자 상태를 조회하는 IoT 시스템 | 팀 프로젝트. Flask 서버, 센서 데이터 전송, 상태 조회 API와 연동 테스트 |
 
-**Ongoing team project · 화재 대피 시뮬레이터**  
+**Ongoing team project · [화재 대피 시뮬레이터](https://github.com/Tmxla/Fire-Simulation)**  
 Unreal Engine/C++ 기반 졸업작품에서 **NPC·AI 의사결정**을 맡고 있습니다. 위험 인지에 따른 행동 선택과 경로 탐색, 통행 대기·막힘 복구 관련 개발에 참여하고 있습니다.
 
 ### Languages & Tools
